@@ -5,5 +5,4 @@ public class helloWorld {
 	// コメントをもう一回追加
 	// branch-test01でのコメント追加
 	// brance-test02でのコメント追加
-
 }
